@@ -1,4 +1,4 @@
-# Deepl-DiscordBOT
+# Discord_DeeplBOT
 
 これはDeepl翻訳を用いてDiscordのテキストメッセージを日本語から英語、もしくは英語から日本語へ翻訳するDiscord Botです<br>
 ※本スクリプトは個人利用レベルのものであり、第三者による利用を深く想定していません。予めご了承ください
