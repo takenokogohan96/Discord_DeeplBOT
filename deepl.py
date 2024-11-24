@@ -15,6 +15,7 @@ JP_to_EN = config_ini.get('TRIGGEREMOJI', 'JP_to_EN')
 EN_to_JP = config_ini.get('TRIGGEREMOJI', 'EN_to_JP')
 
 intents = discord.Intents.default()
+intents.message_content = True
 intents.members = True
 intents.reactions = True
 
